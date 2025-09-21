@@ -1,0 +1,17 @@
+# Voice Assistant
+SpeechRecognition
+pyttsx3
+wikipedia
+
+# BMI Calculator
+matplotlib
+tkinter ; note: usually comes with Python, but include for clarity
+
+# Weather App
+requests
+Pillow
+tkinter ; already included above
+
+# Password Generator
+pyperclip
+tkinter ; already included above
